@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Welcome to the MDTeam Github Page!
 ### Information
-We are a team of aspiring creators making mods for Minecraft.
+We are a team of aspiring programmers, artists, and animators who are extremely passionate about everything we make. Mainly Minecraft mods.
 ### Links
 These are some important links. They go to our profiles or our projects!
 
